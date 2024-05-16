@@ -1,0 +1,3 @@
+# TESTE GIT - UPLOAD DE PASTA
+
+Teste
